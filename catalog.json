@@ -76,7 +76,6 @@
         "product_name": "Winter jacket",
         "product_descr": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
         "price": 2199.99,
-        "image": null,
         "featured": true
     },
     {
@@ -84,7 +83,6 @@
         "product_name": "Shink-fink",
         "product_descr": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
         "price": 78.99,
-        "image": null,
         "featured": false
     },
     {
@@ -92,7 +90,6 @@
         "product_name": "Red trauses",
         "product_descr": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
         "price": 11.99,
-        "image": null,
         "featured": true
     },
     {
@@ -100,7 +97,6 @@
         "product_name": "Black hat",
         "product_descr": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
         "price": 22.99,
-        "image": null,
         "featured": true
     },
     {
@@ -108,7 +104,6 @@
         "product_name": "Smiley polo by Gucci",
         "product_descr": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
         "price": 199.99,
-        "image": null,
         "featured": true
     }
 ]
